@@ -1,3 +1,5 @@
 ## learning the basics of k8s architecture
 
-![](../artifacts/k8sarch.pdf)
+![](../artifacts/arch.png)
+![](../artifacts/arch2.png)
+![](../artifacts/arch3.png)
