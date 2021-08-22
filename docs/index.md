@@ -9,4 +9,4 @@ I wanted to build a small site for me to put stuff out into the world as I learn
 ## notes
 
 **sometimes markdown, sometimes doodles, always incomprehensible...**
-[basic architecture](../notes/architecture.html)
+[basic architecture](./notes/architecture.html)
