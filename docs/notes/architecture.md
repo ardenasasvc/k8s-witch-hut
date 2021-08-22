@@ -1,4 +1,6 @@
-## learning the basics of k8s architecture
+---
+title: the basics.
+---
 
 ![](../artifacts/arch.png)
 ![](../artifacts/arch2.png)
