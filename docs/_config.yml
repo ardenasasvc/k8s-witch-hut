@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
@@ -18,13 +17,5 @@ author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
 
-paginate:         5
 
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
-=======
-theme: jekyll-theme-tactile
->>>>>>> 1c45c7a769f8798b5d80d876339c56960f7732c5
+remote_theme: poole/hyde
