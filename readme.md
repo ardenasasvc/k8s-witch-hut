@@ -1,5 +1,5 @@
 # arden's k8s homelab
-** aka the witch hut. ** 
+**aka the witch hut.** 
 
 #### about
 homelab built for experiments while learning the dark magic (kubernetes).  don't run this in prod.  or do, i'm not your parent.
