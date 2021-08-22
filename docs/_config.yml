@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
@@ -24,3 +25,6 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+=======
+theme: jekyll-theme-tactile
+>>>>>>> 1c45c7a769f8798b5d80d876339c56960f7732c5
