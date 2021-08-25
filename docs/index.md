@@ -1,12 +1,15 @@
 ---
 title: homepage
 ---
-## what's up?
+## about me
 
-I wanted to build a small site for me to put stuff out into the world as I learn kubernetes.  Maybe I will branch out more in the future? who knows!
+![](docs/artifacts/itsnotmagic.png)
+my name is arden.  I have worked as an Infrastructure Engineer at $bigcompany for about three years.  I put notes and observations as I learn new things about tech on this site.  My focus right now is learning kubernetes.
 
 ## posts
-*sometimes markdown, sometimes doodles, always incomprehensible...*<br />
+#### sometimes markdown, sometimes doodles, always incomprehensible...<br />
+
+
 [basic architecture](./notes/architecture.html)<br />
 [getting started](./notes/setup.html)<br />
 [pods](./notes/pods.html)
