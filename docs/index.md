@@ -9,3 +9,4 @@ I wanted to build a small site for me to put stuff out into the world as I learn
 *sometimes markdown, sometimes doodles, always incomprehensible...*<br />
 [basic architecture](./notes/architecture.html)<br />
 [getting started](./notes/setup.html)<br />
+[pods](./notes/pods.html)
